@@ -18,6 +18,7 @@
       "Bash(npx:*)",
       "Bash(yarn:*)",
       "Bash(pnpm:*)",
+      "Bash(codex:*)",
       "Bash(ls:*)",
       "Bash(mkdir:*)",
       "Bash(cat:*)",
