@@ -7,7 +7,10 @@
 - **Tech Stack**: 使用技術
 - **Key Commands**: 実際のコマンド
 - **Project Structure**: 実際のディレクトリ構成
+- **Important Files**: プロジェクトの主要ドキュメントパス
 - **Domain Terms**: プロジェクト固有の用語
+- **STEP 5**: 仕様書のファイルパスをプロジェクトに合わせて更新
+- **STEP 6**: 型チェックコマンドをプロジェクトの言語に合わせて更新
 
 ---
 
@@ -216,7 +219,7 @@ codex exec review --uncommitted
 
 | 内容 | 詳細 |
 |------|------|
-| TypeScript型チェック | `npx tsc --noEmit` |
+| 型チェック | TypeScriptの場合: `npx tsc --noEmit` |
 | 全テスト実行 | `npm test` |
 | PR作成 | テスト・実装・仕様書更新を含むPR |
 
